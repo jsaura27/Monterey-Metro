@@ -1,0 +1,144 @@
+	//Linea A del metro
+	{Schiedam_Centrum_Av - 2 - Marconiplein_A - 2 - Delfshaven_A - 1 - Coolhaven_A - 2 - Dijkzigt_A - 1 - Eendrachtsplein_A - 2 - Beurs_A - 1 - Blaak_A - 2 - Oostplein_A - 2 - Gerdesiaweg_A - 1 - Vorschoterlaan_A - 2 - Kralingse_Zoom_A - 2 - Capelsebrug_A - 3 - Schenkel_A - 2 - Prinsenlaan_A - 2 - Oosterflank_A - 2 - Alexander_A - 1 - Graskruid_A - 2 - Romeynshof_A - 1 - Binnenhof_A};
+
+	//Linea B del metro
+	{Schiedam_Centrum_B - 2 - Marconiplein_B - 2 - Delfshaven_B - 1 - Coolhaven_B - 2 - Dijkzigt_B - 1 - Eendrachtsplein_B - 2 - Beurs_B - 1 - Blaak_B - 2 - Oostplein_B - 2 -  Gerdesiaweg_B - 1 - Voorschoterlaan_B - 2 - Kralingse_Zoom_B - 2 - Capelsebrug_B - 3 - Schenkel_B - 2 - Prinsenlaan_B - 2 - Oosterflank_B - 1 - Alexander_B - 1 - Graskruid_B - 2 - Hesseplaats_B - 1 - Nieuw_Verlaat_B - 2 - Ambachtsland_B - 1 - De_Tochten_B - 2 - Nesselande_B};
+
+	//Linea C del metro
+	{De_Akkers_C - 2 - Heemraadlaan_C - 1 - Spijkenisse_Centrum_C - 3 - Zalmplaat_C - 1 - Hoogvliet_C - 1 - Tussenwater_C - 2 - Pernis_C - 3 - Vijfsluizen_C - 1 - Troelstralaan_C - 2 - Parkweg_C - 2 - Schiedam_Centrum_C - 2 - Marconiplein_C - 2 - Delfshaven_C - 1 - Coolhaven_C - 2 - Dijkzigt_C - 1 - Eendrachtsplein_C - 2 - Beurs_C - 1 - Blaak_C - 2 - Oostplein_C - 2 - Gerdesiaweg_C - 1 - Voorschoterlaan_C - 2 - Kralingse_Zoom_C - 2 - Capelsebrug_C - 2 - Slotlaan_C - 1 - Capelle_Centrum_C - 2 - De_Terp_C};
+
+	//Linea D del metro
+	{De_Akkers_D - 2 - Heemraadlaan_D - 1 - Spijkenisse_Centrum_D - 3 - Zalmplaat_D - 1 - Hoogvliet_D - 1 - Tussenwater_D - 2 - Poortugaal_D - 2 - Rhoon_D - 6 - Slinge_D - 3 - Zuidplein_D - 2 - Maashaven_D - 2 - Rijnhaven_D - 1 - Wilhelminaplein_D - 2 - Leuvehaven_D - 1 - Beurs_D - 2 - Stadhuis_D - 2 - Rotterdam_Centraal_D};
+
+	//Linea E del metro
+	{Slinge_E - 3 - Zuidplein_E - 2 - Maashaven_E - 2 - Rijnhaven_E - 1 - Wilhelminaplein_E - 2 - Leuvehaven_E - 1 - Beurs_E - 2 - Stadhuis_E - 2 - Rotterdam_Centraal_E - 2 - Blijdorp_E - 3 - Melanchthonweg_E - 1 - Meijersplein_E - 3 - Rodenrijs_E - 2 - Berkel_Westpolder_E - 2 - Pijnacker_Zuid_E - 3 - Pijnacker_Centrum_E - 4 - Nootdorp_E - 2 - Leidschenveen_E - 2 - Forepark_E - 1 - Leidschendam_Voorburg_E - 2 -Voorburg_t_Loo_E - 3 - Laan_van_NOI_E - 2 - Den_Haag_Centraal_E};
+
+
+	switch(origenSelec){
+					case "Alexander":
+						break;
+					case "Ambachtsland":
+						break;
+					case "Berkel Westpolder":
+						break;
+					case "Beurs":
+						break;
+					case "Binnenhof":
+						break;
+					case "Blaak":
+						break;
+					case "Blijdorp":
+						break;
+					case "Capelle Centrum":
+						break;
+					case "Capelsebrug":
+						break;
+					case "Coolhaven":
+						break;
+					case "De Akkers":
+						break;
+					case "De Terp":
+						break;
+					case "De Tochten":
+						break;
+					case "Delfshaven":
+						break;
+					case "Den Haag Centraal":
+						break;
+					case "Dijkzigt":
+						break;
+					case "Eendrachtsplein":
+						break;
+					case "Forepark":
+						break;
+					case "Gerdesiaweg":
+						break;
+					case "Graskruid":
+						break;
+					case "Heemraadlaan":
+						break;
+					case "Hesseplaats":
+						break;
+					case "Hoogvliet":
+						break;
+					case "Kralingse Zoom":
+						break;
+					case "Laan van NOI":
+						break;
+					case "Leidschendam-Voorburg":
+						break;
+					case "Leidschenveen":
+						break;
+					case "Leuvehaven":
+						break;
+					case "Maashaven":
+						break;
+					case "Marconiplein":
+						break;
+					case "Meijersplein":
+						break;
+					case "Melanchthonweg":
+						break;
+					case "Nesselande":
+						break;
+					case "Nieuw Verlaat":
+						break;
+					case "Nootdorp":
+						break;
+					case "Oosterflank":
+						break;
+					case "Oostplein":
+						break;
+					case "Parkweg":
+						break;
+					case "Pernis":
+						break;
+					case "Pijnacker Centrum":
+						break;
+					case "Pijnacker Zuid":
+						break;
+					case "Poortugaal":
+						break;
+					case "Prinsenlaan":
+						break;
+					case "Rhoon":
+						break;
+					case "Rijnhaven":
+						break;
+					case "Rodenrijs":
+						break;
+					case "Romeynshof":
+						break;
+					case "Rotterdam Centraal":
+						break;
+					case "Schenkel":
+						break;
+					case "Schiedam Centrum":
+						break;
+					case "Slinge":
+						break;
+					case "Slotlaan":
+						break;
+					case "Spijkenisse Centrum":
+						break;
+					case "Stadhuis":
+						break;
+					case "Troelstralaan":
+						break;
+					case "Tussenwater":
+						break;
+					case "Vijfsluizen":
+						break;
+					case "Voorburg 't Loo":
+						break;
+					case "Voorschoterlaan":
+						break;
+					case "Wilhelminaplein":
+						break;
+					case "Zalmplaat":
+						break;
+					case "Zuidplein":
+						break;
+					default:
+						break;
+					}
